@@ -1,0 +1,10 @@
+{
+  "name": "lightbox",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~1.11.0",
+    "bootstrap-progressbar": "~0.8.3"
+  },
+  "devDependencies": {}
+}
